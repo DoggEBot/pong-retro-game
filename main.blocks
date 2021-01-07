@@ -1,0 +1,26 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable type="KIND_SpriteKind" id="cA5VVB$!rLw(|VHRT60Z">Player</variable><variable type="KIND_SpriteKind" id="z=.:6Y9p#*dQF#e0){A3">Projectile</variable><variable type="KIND_SpriteKind" id="G/Io+%,7?I3)6{k,+_.k">Food</variable><variable type="KIND_SpriteKind" id="j5K$,Y{3!Zl,q7fVxop(">Enemy</variable><variable id="cmE;@UkS__gmJ28ZYS**">mySprite</variable><variable id="Q0unKxZ.,8eFgVMS=TX8">Player 1</variable></variables><block type="pxt-on-start" id="pat=i@ktXEP0Lz`)(dkt" x="0" y="0"><statement name="HANDLER"><block type="gamesetbackgroundcolor" id="~eoo7*a5O4[_f60Xz)X3"><value name="color"><shadow type="colorindexpicker" id="ns+d[].q$LTfptJjfFa1"><field name="index">15</field></shadow></value><next><block type="variables_set" id="9%dY5.4(aT_NBG*Mhixn"><field name="VAR" id="Q0unKxZ.,8eFgVMS=TX8">Player 1</field><value name="VALUE"><shadow xmlns="http://www.w3.org/1999/xhtml" type="math_number"><field name="NUM">0</field></shadow><block type="spritescreate" id="[6Kt+sT1z=}3%UoI)%iG"><value name="img"><shadow type="screen_image_picker" id="-p+BvbJ0f0/Ni~0H9O)C"><field name="img">img`
+1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 
+`</field></shadow></value><value name="kind"><shadow type="spritekind" id="x0B/`tW_wpWn9[v,%CIL"><field name="MEMBER">Player</field></shadow></value></block></value><next><block type="spritesetpos" id="N(9Om@#b09})w5MIWF;:"><value name="sprite"><block type="variables_get" id="XGwXQ}EDehB^kpd`1k[B"><field name="VAR" id="Q0unKxZ.,8eFgVMS=TX8">Player 1</field></block></value><value name="x"><shadow type="positionPicker" id="*W*pC_r@:C-%Gk,-(;^#"><field name="index">10</field></shadow></value><value name="y"><shadow type="positionPicker" id="lm^gW4(w@=1-m$CJ6WEr"><field name="index">60</field></shadow></value></block></next></block></next></block></statement></block></xml>
